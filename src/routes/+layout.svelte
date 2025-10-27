@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title>Dekor</title>
+  <title>laundry</title>
   <link rel="icon" type="image/png" href="/logo.png" />
 </svelte:head>
 
